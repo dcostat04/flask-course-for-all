@@ -1,6 +1,6 @@
 # flask-course-for-all
 #basics
-# create virtaul environment 
+# create virtual environment 
 1) pip install virtualenv
 2) virtualenv environmentname <-your name
 3) enter the following in your prompt
